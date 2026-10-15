@@ -1,4 +1,4 @@
-# Git_practice
+# Github_practice
 
 # Goal : 
 1. Help users know git commands like "Clone", "Add", "Commit", "Push", "Pull", "Branch", "Merge", "Delete Branch"
